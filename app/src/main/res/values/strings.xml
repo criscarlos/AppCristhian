@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppCristhian</string>
+    <string name="semaforobtn">Ver Estado Actual del Semaforo</string>
+</resources>
